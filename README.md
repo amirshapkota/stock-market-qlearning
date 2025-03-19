@@ -17,3 +17,4 @@ The final balance of the trader is plotted over the 1000 simulation steps
 ## q-learning
 
 Q-learning is a type of reinforcement learning (RL) algorithm where an agent learns to make decisions by interacting with an environment and receiving feedback (rewards or penalties). The goal of Q-learning is to learn an optimal policy that maximizes the cumulative reward over time.
+
